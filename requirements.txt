@@ -1,0 +1,4 @@
+fastmcp
+simple-salesforce
+pydantic
+python-dotenv
